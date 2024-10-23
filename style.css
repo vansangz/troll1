@@ -1,0 +1,13 @@
+a {
+  justify-self: center;
+}
+h1 {
+  display: flex;
+            justify-content: center; /* Căn ngang */
+            align-items: center; /* Căn dọc */
+            height: 100vh; /* Chiều cao toàn bộ màn hình */
+            margin: 0; /
+}
+body{
+  background-image: url(./img/aiday.jpg);
+}
